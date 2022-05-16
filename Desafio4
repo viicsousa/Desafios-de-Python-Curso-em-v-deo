@@ -5,4 +5,4 @@ if dist<=200:
 else:
     p2=dist*0.45
     print('Sua viagem é de {}km/h. Logo, sua passagem tem o valor de {:.2f}.'.format(dist,p2))
-print('Obrigada! Tenha uma ótima viagem!')
+print('Obrigada! Tenha uma ótima viagem!') 
