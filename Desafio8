@@ -6,6 +6,6 @@ if c == 1:
 elif c==2:
     print ('O número {} convertido para octal é {}.'.format(n, oct(n)[2:]))
 elif c ==3:
-    print ('O número {} convertido para hexadecimal é {}.' .format (n, hex(n)[2:]))
+    print ('O número {} convertido para hexadecimal é {}.' .format (n , hex(n)[2:]))
 else:
     print('Opção inválida.') 
